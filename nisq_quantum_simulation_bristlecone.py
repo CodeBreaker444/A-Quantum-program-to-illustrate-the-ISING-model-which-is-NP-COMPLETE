@@ -5,7 +5,7 @@ import numpy as np
 import timeit
 
 start = timeit.default_timer()
-circuit_repeats=100
+circuit_repeats=2
 length = 3
 qubits = [cirq.GridQubit(i, j) for i in range(length) for j in range(length)]
 # print(qubits)
