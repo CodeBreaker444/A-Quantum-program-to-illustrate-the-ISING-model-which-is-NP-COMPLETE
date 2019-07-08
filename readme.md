@@ -1,5 +1,5 @@
 # A Quantum program to illustrate the ISING model which is NP-COMPLETE for 72-Qubit Quantum Computer ![](https://travis-ci.com/CodeBreaker444/A-Quantum-program-to-illustrate-the-ISING-model-which-is-NP-COMPLETE.svg?branch=master)
-## > Note: Before anything *Cirq* which is a quantum library for python (A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.) is still in alpha stage and is highly susceptible to syntax changes or even basic framework changes so, use only ther versin present in the requirements.txt.
+### > `Note`: Before anything *Cirq* which is a quantum library for python (A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.) is still in alpha stage and is highly susceptible to syntax changes or even basic framework changes so, use only ther versin present in the requirements.txt.
 ## Requirements:
 - Python3
 - pycharm(Optional)
