@@ -17,7 +17,7 @@ import timeit
 
 ```
 > `Check it in Action:` [Click Here](https://travis-ci.com/CodeBreaker444/A-Quantum-program-to-illustrate-the-ISING-model-which-is-NP-COMPLETE/builds/118221709)
-## Comments are present at every method for better view of its working which avoids blind execution :)
+## Comments are present at important stages for better view of its working which avoids blind execution :)
 ## Personal INFO:
 `Donations Help Me to Keep The Support and Development:` [Click Here](https://paypal.me/zer0error).
 
